@@ -1,0 +1,6 @@
+﻿  Polynomial.cpp
+c:\users\paul\source\repos\s1051553_hw4\s1051553_hw4\polynomial.cpp(18): warning C4018: '<': signed/unsigned 不相符
+c:\users\paul\source\repos\s1051553_hw4\s1051553_hw4\polynomial.cpp(29): warning C4018: '<': signed/unsigned 不相符
+  main.cpp
+  正在產生程式碼...
+  s1051553_hw4.vcxproj -> C:\Users\paul\source\repos\s1051553_hw4\Debug\s1051553_hw4.exe
